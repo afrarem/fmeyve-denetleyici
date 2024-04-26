@@ -7,7 +7,7 @@ import {Base64Binary} from '../utils/utils';
 const BITMAP_DIMENSION = 224;
 
 const modelJson = require('../model/model.json');
-const modelWeights = require('../model/weight.bin');
+//const modelWeights = require('../model/weight.bin');
 
 // 0: channel from JPEG-encoded image
 // 1: gray scale
