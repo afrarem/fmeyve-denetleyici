@@ -1,0 +1,15 @@
+export default {
+    ayarlar: 'Settings',
+    ustyazitext: 'Diet App',
+    boldText1: 'Detect symbol',
+    boldText2: 'Signs',
+    boldText3: 'Settings',
+    dilsecin: 'Choose Language',
+    butonses: 'Sound On/Off',
+    ayarlaraciklama: '*On this page you can change the language setting of the application and turn the sounds on or off.',
+    hakkindayazi1: 'Health Hazard: Also known as exclamation point. Products with this symbol may cause acute toxicity, skin irritation, eye irritation, respiratory tract irritation. Care should be taken to keep products with this symbol away from the face area.',
+    hakkindayazi2: 'Combustible: It is the sign used for rapidly flammable products. When using products with this mark, it should be taken into account that they can ignite rapidly.',
+    hakkindayazi3: 'Corrosive: When using products with this symbol, it should be considered that they have abrasive properties. If possible, it should be used with gloves, if there is no gloves, it should not be touched with bare hands for a long time. After use, hands should be washed with plenty of water.',
+    hakkindayazi4: 'Environmentally Harmful: It is a sign that indicates that the product used may cause harmful effects to the environment. Products with this mark should not be thrown into the sea, forests or any part of nature.',
+    hakkindayazi5: 'Serious Health Hazard: It is the symbol used in products that can cause long-term diseases such as serious respiratory diseases, carcinogenicity, reproductive system toxicity. Products with this symbol should never be inhaled and their contact with the body should be minimal.',
+}
