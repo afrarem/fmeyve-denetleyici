@@ -6,7 +6,7 @@ import {Base64Binary} from '../utils/utils';
 const BITMAP_DIMENSION = 224;
 
 const modelJson = require('../model/model.json');
-const modelWeights = require('C:\Users\afrarem1\Desktop\MyProject\model\weights.bin');
+//const modelWeights = require('../model/weights.bin');
 
 const TENSORFLOW_CHANNEL = 3;
 

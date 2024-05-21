@@ -12,7 +12,7 @@ import {Camera} from 'expo-camera';
 
 
 
-const RESULT_MAPPING = ['Elma' , 'Muz'];
+const RESULT_MAPPING = ['Elma','Muz','Turp','Biber','Marul'];
 
 const MeyveyiTani = () => {
   const cameraRef = useRef();

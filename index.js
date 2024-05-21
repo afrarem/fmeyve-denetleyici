@@ -11,16 +11,19 @@ import 'react-native-gesture-handler';
 import {PersistGate} from 'redux-persist/integration/react';
 import {Provider} from 'react-redux';
 
+
+
 const render = () => {
   return (
     <Provider store={store}>
       <PersistGate loading={null} persistor={persistor}>
         
-          <App />
+      <App  />
         
       </PersistGate>
     </Provider>
   );
 };
 
-AppRegistry.registerComponent('main', () => render);
+
+AppRegistry.registerComponent(appName, () => render);
