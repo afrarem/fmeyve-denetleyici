@@ -13,6 +13,8 @@ module.exports = (async () => {
     },
     resolver: {
       assetExts: [...assetExts, 'bin'],
+      assEetstx: [...assetExts, 'png'],
+      assEetstx: [...assetExts, 'svg '],
     },
   };
 })();
